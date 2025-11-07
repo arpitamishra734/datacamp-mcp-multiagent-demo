@@ -349,7 +349,8 @@ Issues and pull requests are welcome! For major changes, please open an issue fi
 
 ## 📄 License
 
-MIT License - see LICENSE file for details
+If this demo sparked ideas, **check out the Gen-AI Showcase** for more hands-on examples of **agentic patterns**, **memory architectures**, and **MongoDB-backed AI apps**.  
+👉 **[Gen-AI Showcase]([https://example.com/showcase](https://github.com/mongodb-developer/GenAI-Showcase))** 
 
 ---
 
