@@ -191,7 +191,7 @@ Add 1–2 screenshots or a short GIF showing:
 ## Call to action — Explore the Gen-AI Showcase
 
 If this demo sparked ideas, **check out the Gen-AI Showcase** for more hands-on examples of **agentic patterns**, **memory architectures**, and **MongoDB-backed AI apps**.  
-👉 **[Gen-AI Showcase](https://example.com/showcase)** *(replace with your link)*
+👉 **[Gen-AI Showcase]([https://example.com/showcase](https://github.com/mongodb-developer/GenAI-Showcase))** 
 
 ---
 
